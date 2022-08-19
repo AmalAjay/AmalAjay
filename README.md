@@ -1,4 +1,4 @@
-[![MasterHead](https://csspoint101.com/wp-content/uploads/2020/10/Data-Vis.gif)](https://rishavchanda.io)
+<p align="center"> <a target="_blank" rel="noopener noreferrer" href="#"><img width="1000" height="300" src="https://assets.new.siemens.com/siemens/assets/api/uuid:47d5d7a4-8629-4077-9900-e8491b87ac78/width:1125/quality:high/cloudconnect-is-the-key-to-exploiting-the-benefits-of-digitaliza.gif" height="175px"/></a>
 <h1 align="center">Hi 👋, I'm Amal Ajay</h1>
 <h3 align="center">A passionate and aspiring Data Analyst from India</h3>
 <img align="right" alt="Coding" width="300" src="https://media3.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif?cid=790b761186432564514f6175e362a76d782d3808edd9d8a5&rid=giphy.gif&ct=g">
